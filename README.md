@@ -28,7 +28,7 @@ This Flutter project is designed to streamline the management of employee inform
 # To get started with the Employee Catalog app, follow these steps:
 
 # Clone the repository:
-git clone [https://github.com/your-username/employee-catalog.git](https://github.com/Mohammad-al-rifai/tarek_test_app/)
+git clone [Employee App](https://github.com/Mohammad-al-rifai/tarek_test_app/)
 Navigate to the project directory:
 
 
