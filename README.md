@@ -53,5 +53,6 @@ The app utilizes the BLoC (Business Logic Component) and Cubit state management 
 Contact
 If you have any questions, feedback, or suggestions, feel free to contact us:
 
-Email:eng.mohammad.syria@gmail.com
-Phone: +963 996 696 170
+# Email:eng.mohammad.syria@gmail.com
+
+# Phone: +963 996 696 170
